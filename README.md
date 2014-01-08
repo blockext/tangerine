@@ -1,4 +1,4 @@
 nectarine package manager
 =========
 
-GUI for installing verified blockext packages.
+Web-based package manager for verified blockext extensions.
