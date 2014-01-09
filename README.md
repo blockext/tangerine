@@ -1,4 +1,4 @@
-nectarine package manager
+tangerine package manager
 =========
 
 Package manager for installing Scratch 2.0/Snap! extensions.
