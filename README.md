@@ -1,4 +1,3 @@
-nectarine package manager
+tangerine package manager
 =========
-
-Web-based package manager for verified blockext extensions.
+Package manager for verified blockext packages.
